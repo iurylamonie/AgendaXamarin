@@ -12,7 +12,7 @@ namespace AgendaContatos
         public App()
         {
             // The root page of your application
-            MainPage = new PaginaContato();
+            MainPage = new Agenda();
         }
 
         protected override void OnStart()
