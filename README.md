@@ -3,4 +3,4 @@
 
 https://www.xamarin.com/forms
 
-https://developer.xamarin.com/api/type/Xamarin.Forms.EntryCell/
+https://developer.xamarin.com/api/namespace/Xamarin.Forms/
